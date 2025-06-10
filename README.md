@@ -1,6 +1,8 @@
 2D planet gravity simulator.
-
+ 
 This is one of my first projects using sfml
+
+- - - - - - - - - - - - - - - - - - - - - - 
 
 Controls:
 1 - first planet
